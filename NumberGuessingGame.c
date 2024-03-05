@@ -22,6 +22,8 @@
 #include <math.h>
 #include <ctype.h>
 
+
+
 struct Game {
     int count;
     int win;
