@@ -13,7 +13,6 @@ Calculate the tip, tax and total based on the price of salad
 Choice = 1
 Calculate the tip, tax and total based on the price of soup
 Choice = 2
-
 Calculate the tip, tax and total based on the price of sanwich
 Choice = 3
 
