@@ -6,13 +6,17 @@ The program has accept the argument from the command line
 Declare some neccessary variable to represent the menu
 Check if the input is valid or not
 Use random function to choose the meal from the menu
+
 Choice = 0
 Calculate the tip, tax and total based on the price of salad
+
 Choice = 1
 Calculate the tip, tax and total based on the price of soup
 Choice = 2
+
 Calculate the tip, tax and total based on the price of sanwich
 Choice = 3
+
 Calculate the tip, tax and total based on the price of pizza
 Print out the meal, tip, tax and total to the screen
 */
